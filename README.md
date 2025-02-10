@@ -1,4 +1,4 @@
-## My latest project ✨
+## My latest projects ✨
 
 <table>
 
