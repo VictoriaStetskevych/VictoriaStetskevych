@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm happy to see you here!
+🔭🤔✨ 
 <!--
 **VictoriaStetskevych/VictoriaStetskevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
