@@ -4,6 +4,31 @@
 
 <tr>
 <td>
+<a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/05_power_bi_sales_chocolate">
+  <img src="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/05_power_bi_sales_chocolate/Dashboard.png?raw=true">
+</a>
+</td>
+<td>
+<a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/04_power_bi_netflix">
+  <img src="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/04_power_bi_netflix/images/04_image.png?raw=true">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/05_power_bi_sales_chocolate">Power BI<br>Chocolate Company Sales Analysis Dashboard</a><br>
+</td>
+<td>
+<a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/04_power_bi_netflix"> Power BI <br> Netflix Analytics Dashboard</a><br>
+</td>
+</tr>
+</table>
+<hr>
+
+<table>
+<tr>
+<td>
 <a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/03_power_bi_finance_dashboard">
   <img src="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/03_power_bi_finance_dashboard/02_finance_image.png?raw=true">
 </a>
@@ -21,32 +46,6 @@
 </td>
 <td>
 <a href="https://github.com/VictoriaStetskevych/projects/tree/main/PowerBI/02_power_bi_sport_dashboard"> Power BI <br> Sport dashboard</a><br>
-</td>
-</tr>
-</table>
-<hr>
-
-<table>
-
-<tr>
-<td>
-<a href="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/01_sql_powerBI_dashboard_ali_ahmad">
-  <img src="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/01_sql_powerBI_dashboard_ali_ahmad/images/dashboard_resize.png?raw=true">
-</a>
-</td>
-<td>
-<a href="https://github.com/VictoriaStetskevych/projects/blob/main/Excel/03_excel_dashboard_coffee_sales_mo_chen">
-  <img src="https://github.com/VictoriaStetskevych/projects/blob/main/Excel/03_excel_dashboard_coffee_sales_mo_chen/images/34_dashboard_image.png?raw=true" >
-</a>
-</td>
-</tr>
-
-<tr>
-<td >
-<a href="https://github.com/VictoriaStetskevych/projects/blob/main/PowerBI/01_sql_powerBI_dashboard_ali_ahmad"> Analyze data in Microsoft SQL Server and <br> building Dashboards in Power BI</a><br>
-</td>
-<td>
-<a href="https://github.com/VictoriaStetskevych/projects/blob/main/Excel/03_excel_dashboard_coffee_sales_mo_chen"> Analyze data in Microsoft Excel <br> Pivot Table and <dr> dashboard</a><br>
 </td>
 </tr>
 </table>
